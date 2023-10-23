@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>orchidmania</title>
-    <link href="https://2duepixel.github.io/orchidmania/feed.xml" rel="self" />
-    <link href="https://2duepixel.github.io/orchidmania" />
+    <link href="https://orchidmania.pages.dev/feed.xml" rel="self" />
+    <link href="https://orchidmania.pages.dev" />
     <updated>2023-10-18T14:30:37+02:00</updated>
     <author>
         <name>dio</name>
     </author>
-    <id>https://2duepixel.github.io/orchidmania</id>
+    <id>https://orchidmania.pages.dev</id>
 
     <entry>
         <title>L&#x27;incantevole Orchidea Cattleya Labiata: Descrizione, Coltivazione e Cura</title>
         <author>
             <name>dio</name>
         </author>
-        <link href="https://2duepixel.github.io/orchidmania/lincantevole-orchidea-cattleya-labiata-descrizione-coltivazione-e-cura.html"/>
-        <id>https://2duepixel.github.io/orchidmania/lincantevole-orchidea-cattleya-labiata-descrizione-coltivazione-e-cura.html</id>
-        <media:content url="https://2duepixel.github.io/orchidmania/media/posts/1/1024px-Labiata.jpg" medium="image" />
+        <link href="https://orchidmania.pages.dev/lincantevole-orchidea-cattleya-labiata-descrizione-coltivazione-e-cura.html"/>
+        <id>https://orchidmania.pages.dev/lincantevole-orchidea-cattleya-labiata-descrizione-coltivazione-e-cura.html</id>
+        <media:content url="https://orchidmania.pages.dev/media/posts/1/1024px-Labiata.jpg" medium="image" />
 
         <updated>2023-10-18T14:30:37+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://2duepixel.github.io/orchidmania/media/posts/1/1024px-Labiata.jpg" alt="" />
+                        <img src="https://orchidmania.pages.dev/media/posts/1/1024px-Labiata.jpg" alt="" />
                     test sincro 7 amplify git 6 L'orchidea Cattleya Labiata è una delle meraviglie del regno vegetale, una pianta affascinante che cattura l'attenzione con la sua bellezza straordinaria. In questo articolo, esploreremo ogni aspetto di questa specie, dalla sua descrizione e origine al suo significato culturale.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://2duepixel.github.io/orchidmania/media/posts/1/1024px-Labiata.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://orchidmania.pages.dev/media/posts/1/1024px-Labiata.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="test-sincro-7-amplify-git-6">
       test sincro 7 amplify git 6
