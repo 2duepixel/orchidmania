@@ -3,7 +3,7 @@
     <title>orchidmania</title>
     <link href="https://orchidmania.pages.dev/feed.xml" rel="self" />
     <link href="https://orchidmania.pages.dev" />
-    <updated>2023-10-25T16:45:51+02:00</updated>
+    <updated>2023-11-13T14:54:01+01:00</updated>
     <author>
         <name>Orchid Mania</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://orchidmania.pages.dev/orchidea-neofinetia.html"/>
         <id>https://orchidmania.pages.dev/orchidea-neofinetia.html</id>
 
-        <updated>2023-10-25T15:14:05+02:00</updated>
+        <updated>2023-11-13T14:54:01+01:00</updated>
             <summary>
                 <![CDATA[
                     Orchidea Neofinetia
@@ -29,6 +29,37 @@
   <p>
     Orchidea Neofinetia
   </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://orchidmania.pages.dev/media/posts/21/gallery/lady-of-the-night-7031952_1920.webp" data-size="1920x1280">
+        <img loading="lazy" src="https://orchidmania.pages.dev/media/posts/21/gallery/lady-of-the-night-7031952_1920-thumbnail.webp" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://orchidmania.pages.dev/media/posts/21/gallery/orchid-845170_1920.webp" data-size="1920x1281">
+        <img loading="lazy" src="https://orchidmania.pages.dev/media/posts/21/gallery/orchid-845170_1920-thumbnail.webp" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://orchidmania.pages.dev/media/posts/21/gallery/cattleya-orchids-6634558_1920.webp" data-size="1920x1280">
+        <img loading="lazy" src="https://orchidmania.pages.dev/media/posts/21/gallery/cattleya-orchids-6634558_1920-thumbnail.webp" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://orchidmania.pages.dev/media/posts/21/gallery/cypripedium-calceolus-2255581_1920.webp" data-size="1920x1080">
+        <img loading="lazy" src="https://orchidmania.pages.dev/media/posts/21/gallery/cypripedium-calceolus-2255581_1920-thumbnail.webp" height="432" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://orchidmania.pages.dev/media/posts/21/gallery/dendrobium-8050499_1920.webp" data-size="1920x1281">
+        <img loading="lazy" src="https://orchidmania.pages.dev/media/posts/21/gallery/dendrobium-8050499_1920-thumbnail.webp" height="512" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
             ]]>
         </content>
     </entry>
